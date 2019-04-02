@@ -1,0 +1,164 @@
+[
+  {
+    "id": 0,
+    "todo": "clean floor",
+    "category": "house",
+    "completed": "false"
+  },
+  {
+    "id": 1,
+    "todo": "wash dishes",
+    "category": "house",
+    "completed": "false"
+  },
+  {
+    "id": 2,
+    "todo": "vaccuum",
+    "category": "house",
+    "completed": "false"
+  },
+  {
+    "id": 3,
+    "todo": "dust",
+    "category": "house",
+    "completed": "false"
+  },
+  {
+    "id": 4,
+    "todo": "wipe down counters",
+    "category": "house",
+    "completed": "false"
+  },
+  {
+    "id": 5,
+    "todo": "clean bathrooms",
+    "category": "house",
+    "completed": "false"
+  },
+  {
+    "id": 6,
+    "todo": "do laundry",
+    "category": "house",
+    "completed": "false"
+  },
+  {
+    "id": 7,
+    "todo": "fold clothes",
+    "category": "house",
+    "completed": "false"
+  },
+  {
+    "id": 8,
+    "todo": "make the bed",
+    "category": "house",
+    "completed": "false"
+  },
+  {
+    "id": 9,
+    "todo": "change bed sheets",
+    "category": "house",
+    "completed": "false"
+  },
+  {
+    "id": 10,
+    "todo": "buy groceries",
+    "category": "shopping",
+    "completed": "false"
+  },
+  {
+    "id": 11,
+    "todo": "buy clothes",
+    "category": "shopping",
+    "completed": "false"
+  },
+  {
+    "id": 12,
+    "todo": "buy a birthday gift",
+    "category": "shopping",
+    "completed": "false"
+  },
+  {
+    "id": 13,
+    "todo": "give the kids a bath",
+    "category": "kid-stuff",
+    "completed": "false"
+  },
+  {
+    "id": 14,
+    "todo": "drop kids off at school",
+    "category": "kid-stuff",
+    "completed": "false"
+  },
+  {
+    "id": 15,
+    "todo": "make kids food",
+    "category": "kid-stuff",
+    "completed": "false"
+  },
+  {
+    "id": 16,
+    "todo": "go to gymboree",
+    "category": "kid-stuff",
+    "completed": "false"
+  },
+  {
+    "id": 17,
+    "todo": "make phone call",
+    "category": "kid-stuff",
+    "completed": "false"
+  },
+  {
+    "id": 18,
+    "todo": "pick up kids from school",
+    "category": "kid-stuff",
+    "completed": "false"
+  },
+  {
+    "id": 19,
+    "todo": "dance class",
+    "category": "kid-stuff",
+    "completed": "false"
+  },
+  {
+    "id": 20,
+    "todo": "work out",
+    "category": "me",
+    "completed": "false"
+  },
+  {
+    "id": 21,
+    "todo": "get a facial",
+    "category": "me",
+    "completed": "false"
+  },
+  {
+    "id": 22,
+    "todo": "get my nails done",
+    "category": "me",
+    "completed": "false"
+  },
+  {
+    "id": 23,
+    "todo": "take a shower",
+    "category": "me",
+    "completed": "false"
+  },
+  {
+    "id": 24,
+    "todo": "Chicken and rice",
+    "category": "cook",
+    "completed": "false"
+  },
+  {
+    "id": 25,
+    "todo": "pasta",
+    "category": "cook",
+    "completed": "false"
+  },
+  {
+    "id": 26,
+    "todo": "tuna Salad",
+    "category": "cook",
+    "completed": "false"
+  }
+]

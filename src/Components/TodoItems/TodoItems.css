@@ -1,0 +1,43 @@
+.todo-list li {
+  display: flex;
+  justify-content: space-between;
+}
+
+.todo-list div {
+}
+.todo-list li h1 {
+  font-size: 30px;
+  font-family: "Indie Flower", cursive;
+  margin-left: 0px;
+}
+
+.todo-list li h3 {
+  font-size: 18px;
+  font-family: "Indie Flower", cursive;
+  margin-left: 0px;
+}
+
+.todo-list li button {
+  padding: 10px;
+  font-size: 15px;
+  font-family: "Indie Flower", cursive;
+  margin: 10px;
+  margin-right: 0px;
+  background-color: rgb(231, 12, 231);
+  color: #fff;
+  border: 2px solid purple;
+}
+
+.input-edit {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #fff;
+  width: 100px;
+}
+
+.name-cat {
+  margin: 10px;
+}
+.name-cat h1 {
+  margin: 5px;
+}

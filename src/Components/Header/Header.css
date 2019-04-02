@@ -1,0 +1,18 @@
+.header-container {
+  /* background-color: pink; */
+  height: 200px;
+  width: 100%;
+  background: url("http://images6.fanpop.com/image/photos/40200000/Purple-Sunsets-purple-40212070-2048-1324.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+
+  /* justify-content: center;*/
+}
+
+.header-container h1 {
+  font-size: 75px;
+  font-family: "Indie Flower", cursive;
+  text-align: center;
+  padding-top: 75px;
+  color: whitesmoke;
+}
